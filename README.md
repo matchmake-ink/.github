@@ -1,2 +1,1 @@
-# matchmake.ink
-matchmake.ink is an organization dedicated to creating the best open source competitive experience for Splatoon players. We currently are working on [matchmake.ink](https://matchmake.ink), a website that provides a persistent league using the Glicko-2 rating system. If you're interested in helping as a developer, artist, or TO; or you would like to just keep track on our progress and probide feedback, please join our [discord](https://discord.gg/MtnRydHhAt) and follow us on [twitter](https://twitter.com/splat_matchmake).
+Our bio is in profile/README.md
